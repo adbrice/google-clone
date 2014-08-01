@@ -91,7 +91,7 @@ html, body {
 .top-nav ul li:nth-child(1):hover,
 .top-nav ul li:nth-child(2):hover,
 .top-nav ul li:nth-child(3):hover {
-	border-bottom: 1px solid black;
+	border-bottom: 0.5px solid black;
 }
 
  .top-nav ul li:nth-child(4):hover a {
@@ -148,8 +148,8 @@ img {
 	width: 20px;
 	position: absolute;
 	top: 335px;
-	right: 160px;
-	opacity: 0.75;
+	right: 317px;
+	opacity: 0.85;
 }
 
 
